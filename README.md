@@ -15,7 +15,9 @@ A simple and easy-to-use GUI application for searching and viewing Jira tickets.
 ## Documentation
 
 - 📖 [Quick Start Guide](QUICKSTART.md) - Get started in 5 minutes
+- 📚 [Usage Guide](USAGE_GUIDE.md) - Step-by-step instructions
 - 🎨 [UI Overview](UI_OVERVIEW.md) - Visual guide to the interface
+- ✨ [Features List](FEATURES.md) - Complete feature overview
 - 🤝 [Contributing Guide](CONTRIBUTING.md) - How to contribute to the project
 
 ## Prerequisites

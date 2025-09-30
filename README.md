@@ -12,6 +12,8 @@ A simple and easy-to-use GUI application for searching and viewing Jira tickets.
 - 📋 **Copy ticket keys** to clipboard
 - 🔐 **Secure credential management** using environment variables
 
+For a visual overview of the user interface, see [UI_OVERVIEW.md](UI_OVERVIEW.md).
+
 ## Prerequisites
 
 - Python 3.7 or higher

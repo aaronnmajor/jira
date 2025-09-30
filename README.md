@@ -12,7 +12,11 @@ A simple and easy-to-use GUI application for searching and viewing Jira tickets.
 - 📋 **Copy ticket keys** to clipboard
 - 🔐 **Secure credential management** using environment variables
 
-For a visual overview of the user interface, see [UI_OVERVIEW.md](UI_OVERVIEW.md).
+## Documentation
+
+- 📖 [Quick Start Guide](QUICKSTART.md) - Get started in 5 minutes
+- 🎨 [UI Overview](UI_OVERVIEW.md) - Visual guide to the interface
+- 🤝 [Contributing Guide](CONTRIBUTING.md) - How to contribute to the project
 
 ## Prerequisites
 
